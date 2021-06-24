@@ -12,7 +12,7 @@ The main feature of the home page is the map. This contains all the intersection
 
 ### 1. Diagram
 
-![Diagram of method](images/walkthrough/homepage)
+![Diagram of method](images/walkthrough/homepage.png)
 
 ## Create an intersection
 
@@ -20,13 +20,13 @@ The main feature of the home page is the map. This contains all the intersection
 
 ### 2. Name the intersection
 
-![Popup to name the intersection.](images/walkthrough/name_intersection)
+![Popup to name the intersection.](images/walkthrough/name_intersection.png)
 
 ### 3. Marker is added
 
 The page will reload to update marker features.
 
-![The new marker exists and is clickable.](images/walkthrough/marker_added)
+![The new marker exists and is clickable.](images/walkthrough/marker_added.png)
 
 
 {% include links.html %}

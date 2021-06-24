@@ -14,7 +14,7 @@ folder: mydoc
 
 ### 1. Click on any marker on the map 
 
-![Homempage Map](images/walkthrough/homepage)
+![Homempage Map](images/walkthrough/homepage.png)
 
 
 ## Metacontroller tutorial: no experts
@@ -22,19 +22,19 @@ folder: mydoc
 ### 1. Default metacontroller
 A new intersection metacontroller is from scratch. There are no boolean statements nor experts yet.
 
-![Default metacontroller.](images/walkthrough/default_metacontroller)
+![Default metacontroller.](images/walkthrough/default_metacontroller.png)
 
 ### 2.  Right click to show options for building the controller.
 
 You must click on the circle, not the label. You can then add parent and leaves, or delete nodes from the tree.
 
-![Context menu](images/walkthrough/metacontroller_context_menu)
+![Context menu](images/walkthrough/metacontroller_context_menu.png)
 
 ### 3.  Add a new expert
 
 Add a parent or leaf node into the tree. Right click on any leaf to either show the existing expert associated with the node, or turn the node into an expert.
 
-![The context menu to convert the node into an expert.](images/walkthrough/metacontroller_make_expert)
+![The context menu to convert the node into an expert.](images/walkthrough/metacontroller_make_expert.png)
 
 
 ## Expert tutorial
@@ -43,7 +43,7 @@ Add a parent or leaf node into the tree. Right click on any leaf to either show 
 
 After creating an expert directly from the metacontroller interface, the expert will be assigned a color.
 
-![The context menu to convert the node into an expert.](images/walkthrough/default_expert)
+![The context menu to convert the node into an expert.](images/walkthrough/default_expert.png)
 
 ### 5. Right click to show options for building the controller.
 
@@ -53,7 +53,7 @@ The context menu is similar to that of the meta controller. However, the leaves 
 
 Once you create an expert or make changes, be sure to save (or revert changes if you not longer want them). Otherwise, your tree will not be updated.
 
-![Build your expert](images/walkthrough/expert_with_leaf)
+![Build your expert](images/walkthrough/expert_with_leaf.png)
 
 {% include links.html %}
 
@@ -61,24 +61,24 @@ Once you create an expert or make changes, be sure to save (or revert changes if
 
 ### 1. Simmple metacontroller
 
-![Default metacontroller.](images/walkthrough/metacontroller_with_expert)
+![Default metacontroller.](images/walkthrough/metacontroller_with_expert.png)
 
 ### 2.  Name your experts appropriately
 
 Click on the label. When you are done editing. Press enter while focusing on the textbox to save the label.
 
-![Context menu](images/walkthrough/metacontroller_with_label_edit)
+![Context menu](images/walkthrough/metacontroller_with_label_edit.png)
 
 ### 3.  Move experts around the tree
 
 You can delete or add expert nodes. However, to add the expert back in, drag the box from the legend into the tree. It will be added as a leaf to the nearest node.
 
-![Add a new expert into the tree](images/walkthrough/metacontroller_drag_expert)
+![Add a new expert into the tree](images/walkthrough/metacontroller_drag_expert.png)
 
 ### 4. Permanently remove experts from the metacontroller
 
 If you want to completely delete an expert for good (not just its location in the metacontroller), you must first delete the node from the tree. Then, you can hover over the label in the legend. When you see the strikethrough, click. The expert will be deleted.
 
-![Remove an expert](images/walkthrough/metacontroller_remove_expert)
+![Remove an expert](images/walkthrough/metacontroller_remove_expert.png)
 
 {% include links.html %}
