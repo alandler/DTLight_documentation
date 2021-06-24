@@ -53,16 +53,16 @@ entries:
       output: web, pdf
 
   - title: Tutorial
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Map walkthrough
       url: /mydoc_map_walkthrough.html
-      output: web, pdf
+      output: web
     
     - title: Meta controller and experts walkthrough
       url: /mydoc_meta_expert_walkthrough.html
-      output: web, pdf
+      output: web
 
   # - title: Installation
   #   output: web, pdf
