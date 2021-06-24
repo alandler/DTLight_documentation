@@ -1,5 +1,9 @@
 ---
 title: Walkthrough: Metacontroller and Experts
+tags: [tutorial]
+keywords: metacontroller
+last_updated: June 24, 2021
+summary: "Walk through creation of a new metacontroller and expert"
 sidebar: mydoc_sidebar
 permalink: mydoc_meta_expert_walkthrough.html
 folder: mydoc
