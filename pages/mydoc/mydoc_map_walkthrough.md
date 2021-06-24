@@ -1,5 +1,5 @@
 ---
-title: Walkthrough: Map
+title: Walkthrough- Map
 sidebar: mydoc_sidebar
 permalink: mydoc_map_walkthrough.html
 folder: mydoc

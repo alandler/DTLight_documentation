@@ -1,5 +1,5 @@
 ---
-title: Walkthrough: Metacontroller and Experts
+title: Walkthrough- Metacontroller and Experts
 tags: [tutorial]
 keywords: metacontroller
 last_updated: June 24, 2021
@@ -80,3 +80,5 @@ You can delete or add expert nodes. However, to add the expert back in, drag the
 If you want to completely delete an expert for good (not just its location in the metacontroller), you must first delete the node from the tree. Then, you can hover over the label in the legend. When you see the strikethrough, click. The expert will be deleted.
 
 ![Remove an expert](images/walkthrough/metacontroller_remove_expert)
+
+{% include links.html %}
